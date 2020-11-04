@@ -1,0 +1,25 @@
+{
+  "name": "semana_omnistack",
+  "version": "1.0.0",
+  "description": "Semana_Omnistack",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ke975/Semana_omnistack.git"
+  },
+  "author": "kevin_Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ke975/Semana_omnistack/issues"
+  },
+  "homepage": "https://github.com/ke975/Semana_omnistack#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "nodemon": "^2.0.6"
+  }
+}
